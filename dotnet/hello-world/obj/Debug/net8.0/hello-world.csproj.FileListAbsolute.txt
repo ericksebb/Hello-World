@@ -1,0 +1,14 @@
+/media/ericsebb/Games & Data/Projects/hello-world/dotnet/hello-world/bin/Debug/net8.0/hello-world
+/media/ericsebb/Games & Data/Projects/hello-world/dotnet/hello-world/bin/Debug/net8.0/hello-world.deps.json
+/media/ericsebb/Games & Data/Projects/hello-world/dotnet/hello-world/bin/Debug/net8.0/hello-world.runtimeconfig.json
+/media/ericsebb/Games & Data/Projects/hello-world/dotnet/hello-world/bin/Debug/net8.0/hello-world.dll
+/media/ericsebb/Games & Data/Projects/hello-world/dotnet/hello-world/bin/Debug/net8.0/hello-world.pdb
+/media/ericsebb/Games & Data/Projects/hello-world/dotnet/hello-world/obj/Debug/net8.0/hello-world.GeneratedMSBuildEditorConfig.editorconfig
+/media/ericsebb/Games & Data/Projects/hello-world/dotnet/hello-world/obj/Debug/net8.0/hello-world.AssemblyInfoInputs.cache
+/media/ericsebb/Games & Data/Projects/hello-world/dotnet/hello-world/obj/Debug/net8.0/hello-world.AssemblyInfo.cs
+/media/ericsebb/Games & Data/Projects/hello-world/dotnet/hello-world/obj/Debug/net8.0/hello-world.csproj.CoreCompileInputs.cache
+/media/ericsebb/Games & Data/Projects/hello-world/dotnet/hello-world/obj/Debug/net8.0/hello-world.dll
+/media/ericsebb/Games & Data/Projects/hello-world/dotnet/hello-world/obj/Debug/net8.0/refint/hello-world.dll
+/media/ericsebb/Games & Data/Projects/hello-world/dotnet/hello-world/obj/Debug/net8.0/hello-world.pdb
+/media/ericsebb/Games & Data/Projects/hello-world/dotnet/hello-world/obj/Debug/net8.0/hello-world.genruntimeconfig.cache
+/media/ericsebb/Games & Data/Projects/hello-world/dotnet/hello-world/obj/Debug/net8.0/ref/hello-world.dll
